@@ -1,4 +1,4 @@
-The Digital Impact Alliance (https://dial.global, DIAL), current stewards of the Principles for Digital Development (https://digitalprinciples.org, 'The Principles'), has pulled the basic image assets from The Principles website in a location and format that is quick and easy to find and download.
+The Digital Impact Alliance (https://dial.global, DIAL), current steward organization of the Principles for Digital Development (https://digitalprinciples.org, 'The Principles'), has pulled the basic image assets from The Principles website in a location and format that is quick and easy to find and download.
 
 It's unclear if this is part of the trend of moving DIAL's products towards a more proprietary and license-based structure, or just inepitude.
 
